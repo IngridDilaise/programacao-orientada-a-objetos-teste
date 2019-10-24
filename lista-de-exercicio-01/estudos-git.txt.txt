@@ -1,0 +1,7 @@
+Ramificação , no controle de versão e no gerenciamento de configuração de software , é a duplicação de um objeto sob controle de versão (como um arquivo de código-fonte ou uma árvore de diretórios ), para que modificações possam ocorrer em paralelo ao longo de várias ramificações .
+
+Ramos também são conhecidos como árvores , córregos ou linhas de código . Às vezes, a ramificação de origem é chamada ramificação pai , ramificação upstream (ou simplesmente upstream , especialmente se as ramificações são mantidas por diferentes organizações ou indivíduos) ou o backing stream . Filiais filhas são filiais que têm um pai; uma ramificação sem pai é chamada de tronco ou linha principal . [1]
+
+Em alguns sistemas distribuídos de controle de revisão , como o Darcs , não há distinção entre repositórios e ramificações; nesses sistemas, buscar uma cópia de um repositório é equivalente a ramificação.
+
+A ramificação também geralmente implica a capacidade de mesclar ou integrar posteriormente as alterações na ramificação pai. Geralmente, as alterações são mescladas de volta ao tronco, mesmo que esse não seja o ramo pai. Uma filial que não pretende ser mesclada (por exemplo, porque foi relicenciada por uma licença incompatível por terceiros ou tenta servir a um propósito diferente) é geralmente chamada de fork .
